@@ -14,6 +14,14 @@ The following folders have sub folders.
 
 ## 3. Business Analyst
 ## 4. Data Engineer
+
+Data engineering enables data-driven decision making by
+collecting, transforming, and visualizing data. A data
+engineer designs, builds, maintains, and troubleshoots
+data processing systems with a particular emphasis on the
+security, reliability, fault-tolerance, scalability, fidelity,
+and efficiency of such systems.
+
 ## 5. Cloud Providers
 * 5.1 AWS
 * 5.2 Azure
