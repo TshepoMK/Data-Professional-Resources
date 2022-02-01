@@ -20,3 +20,4 @@ The following folders have sub folders.
 * 5.3 GCP
 * 5.4 IBM
 ## 6. Project Management
+## 7. Data Governance
