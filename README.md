@@ -21,3 +21,9 @@ The following folders have sub folders.
 * 5.4 IBM
 ## 6. Project Management
 ## 7. Data Governance
+
+Data governance persona is concerned wih the following
+
+* Data Quality
+* Data Ownersip
+* Security, data accessibility 
