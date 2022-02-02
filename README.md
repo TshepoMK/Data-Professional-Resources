@@ -35,3 +35,13 @@ Data governance persona is concerned wih the following
 * Data Quality
 * Data Ownersip
 * Security, data accessibility 
+
+
+## 8. Data Leads and Managers
+
+This folder is for resources for data leads, data managers and senior roles in the data profession. 
+You can expect to find the follwoing material
+
+* Project Management Frameworks
+* Jargon Explainers
+* Business opportunities and Trends in the data universe
