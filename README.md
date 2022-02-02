@@ -112,3 +112,4 @@ Clone the repo add more resources you have.
 * Business Analyst : https://www.cio.com/article/276798/project-management-what-do-business-analysts-actually-do-for-software-implementation-projects.html#:~:text=Business%20analysts%20(BAs)%20are%20responsible,reports%20to%20executives%20and%20stakeholders.
 * Data Analyst: https://www.coursera.org/articles/what-does-a-data-analyst-do-a-career-guide
 * Data Scientist: https://www.coursera.org/articles/what-is-a-data-scientist
+* R Cheatsheets: https://www.rstudio.com/resources/cheatsheets/
