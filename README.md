@@ -26,7 +26,7 @@ You can expect the following sub folders
 
 Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making
 
-### What is data analysis?
+
 Data analysis is the process of gleaning insights from data to help inform better business decisions. The process of analyzing data typically moves through five iterative phases:
 
 * Identify the data you want to analyze
@@ -65,7 +65,7 @@ and efficiency of such systems.
 
 ## 5. Cloud Providers
 
-When you are working on an offline study with an excel that is a few megabytes you can get away with seeking advacement computing resources, however eventually you will need to deploy your dashboard or model for the organisation to use and that is where you will need to acquire cloud computing services from one of the follwoing providers. Find the information you need to start under each sub folder depending on the service provider of your companies choice. 
+When you are working on an offline study with an excel that is a few megabytes you can get away with seeking advacement computing resources, however eventually you will need to deploy your dashboard or model for the organisation to use and that is where you will need to acquire cloud computing services from one of the following providers. Find the information you need to start under each sub folder depending on the service provider of your company's choice. 
 
 
 * 5.1 AWS
@@ -97,7 +97,7 @@ Data governance persona is concerned with the following
 ## 8. Data Leads and Managers
 
 This folder is for resources for data leads, data managers and senior roles in the data profession. 
-You can expect to find the follwoing material
+You can expect to find the following material
 
 * Project Management Frameworks
 * Jargon Explainers
@@ -105,8 +105,10 @@ You can expect to find the follwoing material
 
 ## 9. Contributing
 
+Clone the repo add more resources you have.
+
 ## 10. Link to Persona descriptions Sources
 
 * Business Analyst : https://www.cio.com/article/276798/project-management-what-do-business-analysts-actually-do-for-software-implementation-projects.html#:~:text=Business%20analysts%20(BAs)%20are%20responsible,reports%20to%20executives%20and%20stakeholders.
 * Data Analyst: https://www.coursera.org/articles/what-does-a-data-analyst-do-a-career-guide
-* Data Scientist: 
+* Data Scientist: https://www.coursera.org/articles/what-is-a-data-scientist
